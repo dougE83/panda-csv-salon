@@ -11,7 +11,7 @@ Welcome to the Salon. Think of it like a car repair shop for your data — park 
 **Requirement:** [UV](https://docs.astral.sh/uv/) must be installed.
 
 ```bash
-git clone https://github.com/yourusername/panda-csv-salon.git
+git clone https://github.com/dougE83/panda-csv-salon.git
 cd panda-csv-salon
 uv sync
 uv run jupyter lab
