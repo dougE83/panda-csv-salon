@@ -25,3 +25,6 @@ scripts/*.py
 # OS
 .DS_Store
 Thumbs.db
+
+# CSV
+*.csv
