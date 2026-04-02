@@ -1,0 +1,17 @@
+[project]
+name = "panda-csv-salon"
+version = "0.1.0"
+description = "A one-stop shop for working with CSV files using Python Pandas 3.x"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "pandas>=3.0",
+    "jupyterlab>=4.0",
+    "nbformat>=5.9",
+    "matplotlib>=3.8",
+    "seaborn>=0.13",
+    "plotly>=5.18",
+    "openpyxl>=3.1",
+    "ipykernel>=6.0",
+    "pyarrow>=14.0",
+]
