@@ -1,4 +1,5 @@
 # Panda's CSV Salon
+<img width="2048" height="2048" alt="Gemini_Generated_Image_zegp47zegp47zegp" src="https://github.com/user-attachments/assets/4babae89-cff0-41db-a701-c13e41deef33" />
 
 > A one-stop shop for working with CSV files using Python Pandas 3.x.
 
